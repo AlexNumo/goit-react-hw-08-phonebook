@@ -46,13 +46,13 @@ export default function Layout() {
         <Container>
           2022, GoIT Homework - Phonebook,{' '}
           <a
-            href="https://github.com/Falconoff"
+            href="https://github.com/AlexNumo"
             noopener="true"
             noreferrer="true"
             target="_blank"
             rel="noreferrer"
           >
-            Falconoff
+            AlexNumo
           </a>{' '}
           ©
         </Container>
